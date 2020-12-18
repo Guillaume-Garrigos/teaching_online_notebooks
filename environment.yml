@@ -7,5 +7,3 @@ dependencies:
   - addict
   - ipympl
   - ipywidgets
-  - copy
-  - mpl_toolkits
