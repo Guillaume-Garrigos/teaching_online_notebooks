@@ -1,0 +1,11 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - addict
+  - ipympl
+  - ipywidgets
+  - copy
+  - mpl_toolkits
