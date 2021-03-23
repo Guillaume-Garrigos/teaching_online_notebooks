@@ -7,4 +7,4 @@ dependencies:
   - pip
   - pip:
     - matplotlib
-    - invprob
+    - latexifier
