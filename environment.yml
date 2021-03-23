@@ -8,5 +8,5 @@ dependencies:
     - numpy
     - matplotlib
     - scipy
-    - pylab
+    - pylab-sdk
     - latexifier
