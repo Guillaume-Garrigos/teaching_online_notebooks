@@ -1,9 +1,11 @@
 name: example-environment
 channels:
   - conda-forge
+  - pypi
+  - defaults
 dependencies:
   - numpy
   - matplotlib
-  - addict
-  - ipympl
-  - ipywidgets
+  - pip
+  - pip:
+    - invprob
